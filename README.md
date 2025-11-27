@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="center">👋 Hi, I'm Karthik Javvaji<br>Data Analyst | BI Developer | Power BI | Python | Forecasting | Machine Learning<br><br>I’m passionate about using data to solve real business problems. I specialize in Power BI dashboards, forecasting with Prophet, ETL pipelines, and storytelling through analytics.<br>I enjoy transforming complex datasets into clear insights that support decision-making across sales, finance, and customer analytics.</h5>
+<h2 align="center">👋 Hi, I'm Karthik Javvaji<br>Data Analyst | BI Developer | Power BI | Python | Forecasting | Machine Learning<br><br>I’m passionate about using data to solve real business problems. I specialize in Power BI dashboards, forecasting with Prophet, ETL pipelines, and storytelling through analytics.<br>I enjoy transforming complex datasets into clear insights that support decision-making across sales, finance, and customer analytics.</h2>
 
 ###
 
