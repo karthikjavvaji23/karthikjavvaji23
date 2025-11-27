@@ -7,14 +7,6 @@
 </p>
 
 ###
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
 
 # 💫 About Me:
 <br>Hi! I'm Karthik Javvaji 👋  <br>🛰️ A passionate Data Analyst & BI Developer who loves turning raw data into actionable insights.  <br>🤝 I work across the full analytics pipeline — from ETL and data cleaning to forecasting, machine learning, and building interactive Power BI dashboards.    <br>💬 Ask me about: BI design, ETL, forecasting, and business analytics  <br>⚡ I enjoy solving real business problems, designing clean visual stories, and creating tools that help teams make smarter decisions. 📊✨
