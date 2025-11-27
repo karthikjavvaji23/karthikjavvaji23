@@ -1,12 +1,20 @@
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="output/pacman-contribution-graph-dark.svg" />
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="output/pacman-contribution-graph.svg" />
-  <!-- Fallback -->
-  <img alt="pacman contribution graph" src="output/pacman-contribution-graph.svg" />
-</picture>
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph.svg"
+      style="max-width: 100%;"
+    />
+  </picture>
+</p>
 
 ###
 ##
