@@ -1,9 +1,6 @@
 <!-- Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/pacman-contribution-graph.svg">
-</picture>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38ebdece-4261-4e95-b83d-c4a36204b13c" />
+
 
 <br><br>
 
