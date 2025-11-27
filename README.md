@@ -11,7 +11,7 @@
 <br>Hi! I'm Karthik Javvaji 👋  <br>🛰️ A passionate Data Analyst & BI Developer who loves turning raw data into actionable insights.  <br>🤝 I work across the full analytics pipeline — from ETL and data cleaning to forecasting, machine learning, and building interactive Power BI dashboards.    <br>💬 Ask me about: BI design, ETL, forecasting, and business analytics  <br>⚡ I enjoy solving real business problems, designing clean visual stories, and creating tools that help teams make smarter decisions. 📊✨
 
 <h3>
-<b>Analyst Portfolio:<a href="https://github.com/karthikjavvaji23/karthik-analytics-portfolio">github.com/karthikjavvaji23/karthik-analytics-portfolio
+Analyst Portfolio:  <a href="https://github.com/karthikjavvaji23/karthik-analytics-portfolio">github.com/karthikjavvaji23/karthik-analytics-portfolio
 </h3>
 
 
