@@ -1,23 +1,7 @@
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+##
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+![snake gif](https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/output/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <h3 align="center">👋 Hi, I'm Karthik Javvaji<br>Data Analyst | BI Developer | Power BI | Python | Forecasting | Machine Learning<br><br>I’m passionate about using data to solve real business problems. I specialize in Power BI dashboards, forecasting with Prophet, ETL pipelines, and storytelling through analytics.<br>I enjoy transforming complex datasets into clear insights that support decision-making across sales, finance, and customer analytics.</h3>
