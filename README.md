@@ -1,3 +1,5 @@
+![your_cool_intro (1)](https://github.com/user-attachments/assets/2aaf4836-9ec9-4cd8-a716-e0bf4fd88ba7)
+
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikjavvaji23/karthikjavvaji23/main/output/github-contribution-grid-snake-dark.svg">
