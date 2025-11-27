@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"   # generates snake every 6 hours
   workflow_dispatch:
 
+permissions:
+  contents: write   # 👈 give this workflow permission to push commits
+
 jobs:
   build:
     runs-on: ubuntu-latest
